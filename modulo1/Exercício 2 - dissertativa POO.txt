@@ -1,0 +1,9 @@
+﻿Exercício 2 - POO
+Com base no cenário descrito, analise qual paradigma de programação seria mais indicado para implementar o sistema de gerenciamento da biblioteca:
+
+a) programação estruturada
+b) programação imperativa
+c) programação orientada a objetos ou
+d) programação funcional
+RESPOSTA:
+O paradigma mais indicado seria Programação Orientada a Objetos, pois permite um código modular e reutilizável, ou seja, para as entidades de Livros, Usuários e Autores, por exemplo, seria implementados métodos e comportamentos e, os mesmos poderiam ser utilizados novamente através da Herança, também poderiam ser adicionados novos comportamentos as entidades sem afetar o código.
